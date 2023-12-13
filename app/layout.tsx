@@ -1,11 +1,11 @@
 import type { Metadata } from 'next'
-import { Inter } from 'next/font/google'
+import { Roboto } from 'next/font/google'
 import './globals.css'
 import Navbar from './components/Navbar'
 import SiteFooter from './components/Sitefooter'
 import Chart from './components/Chart'
 
-const inter = Inter({ subsets: ['latin'] })
+const inter = Roboto({weight:"500", subsets: ['latin'] })
 
 // const tagId = process.env.GTM_TAG;
 
