@@ -24,7 +24,7 @@ export default function page() {
                         exporter and supplier
                         of
                         a wide range of Designer Bridal Fabric Lace / BEADED GOWN / EVENING GOWN /
-                        MOROCCAN CAFTAN.
+                        Bridal Gowns.
                         More different types designs available.
                         We also manufacturer a large collection for adults and
                         some kids for example functional wear, Festival oriented series with designers New patterns.

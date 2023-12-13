@@ -68,10 +68,10 @@ export default async function ProductPge({
                 Incl. Vat plus shipping
               </span>
             </div>
-            <div className="mb-0.5 flex items-center gap-2 text-gray-500">
+            {/* <div className="mb-0.5 flex items-center gap-2 text-gray-500">
               <Truck className="w-6 h-6" />
               <span className="text-sm">1 Week Shipping</span>
-            </div>
+            </div> */}
             <span className="text-[#090808] text-lg">Product Id : {data.designid}</span>           
             <p className="mt-1 mb-2 text-base text-gray-500 tracking-wide">
               {data.description}

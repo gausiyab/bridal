@@ -59,7 +59,7 @@ export default async function Hero() {
             href="/Bridal"
             className="flex w-1/2 items-center justify-center  text-black transition duration-100 hover:bg-gray-100 active:bg-gray-200"
           >
-            Bridal Coutur
+            Bridal Couture
           </Link>
           <Link
             href="/Beaded"
