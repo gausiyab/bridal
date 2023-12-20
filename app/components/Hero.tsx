@@ -43,8 +43,8 @@ export default async function Hero() {
               src={urlFor(data.image2).url()}
               alt="Home page Image"             
               className="h-full w-full object-cover object-center"
-              width={1024}
-              height={600}            
+              width={500}
+              height={500}            
               sizes="(max-width: 768px) 100vw, 700px"
               // sizes="(min-width: 1360px) 400px, (min-width: 1040px) calc(25.67vw + 58px), (min-width: 720px) 344px, calc(46.5vw + 19px)"
               priority
