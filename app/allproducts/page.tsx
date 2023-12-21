@@ -24,7 +24,7 @@ export default async function All(){
             href="/Beaded"
             className="flex w-1/2 items-center justify-center text-black transition duration-100 hover:bg-gray-100 active:bg-gray-200"
           >
-           Beaded Fabric
+           Beaded Dress
           </Link>
           <Link
             href="/Lace"

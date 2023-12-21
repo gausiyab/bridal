@@ -22,22 +22,22 @@ export default function page() {
       <span className="text-[#9d174d] text-2xl font-extrabold">Contact Us 24/7</span>
         <div className="flex m-2.5 items-center justify-center gap-3">
          
-        <Link href="https://www.facebook.com/gausiyaboutiques" target="blank">
+        <Link href="https://www.facebook.com/mahiracoutures/" target="blank">
         <Facebook  color='rgb(0, 0, 255)' size={30}/></Link>
 
-         <Link href="https://www.instagram.com/gausiyaboutiques/" target="blank">
+         <Link href="https://www.instagram.com/mahira___couture" target="blank">
         <Instagram  color='rgb(221, 42, 123)'size={30}/></Link>
 
-        <Link href="https://in.pinterest.com/gausiyaboutique92/" target="blank">
+        <Link href="https://in.pinterest.com/mahiracoutures/" target="blank">
         <FaPinterestSquare color='rgb(189, 8, 28)' size={30}/></Link>
 
-        <Link  href="https://www.linkedin.com/in/gausiyaboutique/" target="blank">
-        <Linkedin  color='rgb(0, 119, 181)'size={30}/></Link>
+        {/* <Link  href="https://www.linkedin.com/in/gausiyaboutique/" target="blank">
+        <Linkedin  color='rgb(0, 119, 181)'size={30}/></Link> */}
 
         <Link href= "https://wa.me/919967924064" target="blank">
        <BsWhatsapp  color='hsla(126, 100%, 50%, 1)' size={30}/></Link>
         </div>
-        <div className="flex my-0.5 items-center justify-center text-base gap-3"><MailPlus color='rgb(255, 117, 26)'size={30}/>gausiyaboutique@gmail.com</div>
+        <div className="flex my-0.5 items-center justify-center text-base gap-3"><MailPlus color='rgb(255, 117, 26)'size={30}/>mahiracouture92@gmail.com</div>
       </div>
     </div>
   </div>

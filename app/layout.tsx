@@ -24,22 +24,13 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        {/* <meta name="p:domain_verify" content="dfc3495cebfd2915a5b3eba5bfd56341"/>
-        <meta name="google-site-verification" content="WvpRGEe3bm6tkoYJLtA0MVQngCcgYyUq03F5eZ5mBUU" />
-        <meta name="yandex-verification" content="48fbdca9565c4121" /> */}
-          {/* <script
-          dangerouslySetInnerHTML={{
-            __html:`(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-            })(window,document,'script','dataLayer',"${tagId}")`
-          }}/> */}
+      <meta name="p:domain_verify" content="73898f71512804d5be90bcf98b7f2cba"/>
+      <meta name="google-site-verification" content="KFd32pKKZCRXUCGVUH4ERiog8Q6NqZDim5pV2MXay3E" />
         </head>
       <body className={inter.className}>
         <Navbar/>
         <Chart/>
-        {children}
+        <div className="flex-1">{children}</div>
         <SiteFooter/>
         </body>
     </html>

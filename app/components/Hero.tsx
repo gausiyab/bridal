@@ -44,7 +44,7 @@ export default async function Hero() {
               alt="Home page Image"             
               className="h-full w-full object-cover object-center"
               width={500}
-              height={500}            
+              height={400}            
               sizes="(max-width: 768px) 100vw, 700px"
               // sizes="(min-width: 1360px) 400px, (min-width: 1040px) calc(25.67vw + 58px), (min-width: 720px) 344px, calc(46.5vw + 19px)"
               priority
@@ -65,7 +65,7 @@ export default async function Hero() {
             href="/Beaded"
             className="flex w-1/2 items-center justify-center  text-black transition duration-100 hover:bg-gray-100 active:bg-gray-200"
           >
-           Beaded Fabric
+           Beaded Dress
           </Link>
           <Link
             href="/Lace"

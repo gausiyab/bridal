@@ -9,7 +9,7 @@ export default function page() {
     <div className="py-2 tracking-wider px-9 mt-20 justify-center items-center text-center m-2.5">
       <h1 className="text-[#9d174d] text-3xl font-extrabold">Privacy Policy</h1>
 
-      <h2 className="text-2xl mt-6">Welcom to our website <span className="text-[#dc2626]"> www.gausiyacoutur.com </span>
+      <h2 className="text-2xl mt-6">Welcom to our website <span className="text-[#dc2626]"> www.mahiracouture.com </span>
       please read our privacy policy carefully.
       This privacy policy applies when you visit our surf the site without purchasing any product.</h2>
 

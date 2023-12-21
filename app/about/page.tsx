@@ -11,7 +11,7 @@ export const metadata: Metadata = {
 export default function page() {
   return (
       <div className="py-2 tracking-wider px-9 mt-20 justify-center items-center text-center m-2.5">
-            <span className="text-3xl my-3.5 font-medium text-[#4f46e5]">Welcom To Gausiya Coutur</span>
+            <span className="text-3xl my-3.5 font-medium text-[#4f46e5]">Welcom To Mahira Coutur</span>
             <div className="m-1.5">
             <span className="text-3xl font-extrabold border-b-2 divide-red-900 text-[#9d174d]">Owner : Mohd Nisar</span>
                 <div className="m-1.5">
